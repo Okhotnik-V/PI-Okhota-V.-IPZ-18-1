@@ -1,0 +1,8 @@
+﻿@model Lab_2_1.Models.Product
+@{
+    ViewBag.Title = "NameAndPrice";
+    Layout = "~/Views/_BasicLayout.cshtml";
+}
+<h2>Назва та ціна </h2>>
+Назва продукту @Model.Name його ціна $ @Model.Price
+<a href="https://localhost:44373/Home/DemoExpression">Детальніше</a>

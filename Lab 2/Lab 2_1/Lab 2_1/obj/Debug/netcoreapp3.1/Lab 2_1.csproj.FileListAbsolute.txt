@@ -1,0 +1,42 @@
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.exe
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.deps.json
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.runtimeconfig.json
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.runtimeconfig.dev.json
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.Views.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\bin\Debug\netcoreapp3.1\Lab 2_1.Views.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.csprojAssemblyReference.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.AssemblyInfoInputs.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.AssemblyInfo.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.csproj.CoreCompileInputs.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.RazorAssemblyInfo.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.RazorAssemblyInfo.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.TagHelpers.input.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.TagHelpers.output.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.RazorCoreGenerate.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Controllers\Index.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.RazorTargetAssemblyInfo.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.RazorTargetAssemblyInfo.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.Views.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\staticwebassets\Lab 2_1.StaticWebAssets.Manifest.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\staticwebassets\Lab 2_1.StaticWebAssets.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.genruntimeconfig.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Lab 2_1.csproj.CopyComplete
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\_BasicLayout.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\NameAndPrice.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DemoExpression.cshtml.g.cs
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Комп'ютерне моделювання\лаб 2\Lab 2_1\Lab 2_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DemoArray.cshtml.g.cs

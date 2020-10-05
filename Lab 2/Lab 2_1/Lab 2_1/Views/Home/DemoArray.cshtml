@@ -1,0 +1,26 @@
+﻿@using Lab_2_1.Models
+@model Product[]
+@{
+    ViewBag.Title = "DemoArray";
+    Layout = "~/Views/_BasicLayout.cshtml";
+}
+@if (Model.Length > 0)
+{
+    <table>
+        <thead><tr><th>Назва</th><th>Ціна</th><th>Дія</th></tr></thead>
+        <tbody>
+            @foreach (Product p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>$@p.Price</td>
+                    <td>@p.Category</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h2>No product data</h2>
+}

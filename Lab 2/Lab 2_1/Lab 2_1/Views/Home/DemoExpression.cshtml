@@ -1,0 +1,37 @@
+﻿@model Lab_2_1.Models.Product
+@{
+    ViewBag.Title = "DemoExpression";
+    Layout = "~/Views/_BasicLayout.cshtml";
+}
+<table>
+    <thead>
+        <tr><th>Автомобільна аптечка</th>
+        <tr><th>Влаcтивість</th><th>Значення</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Назва</td><td>@Model.Name</td></tr>
+        <tr><td>Ціна</td><td>@Model.Price</td></tr>
+        <tr><td>Склад</td><td>@Model.Description</td></tr>
+        <tr><td>Категорія</td><td>@Model.Category</td></tr>
+        <tr>
+            <td>Запас</td>
+
+            <td>
+                @switch ((int)ViewBag.ProductCount)
+                {
+                    case 0:
+                        @: Немає в наявності
+                        break;
+                    case 1:
+                        <b>
+                            Низький запас (@ViewBag.ProductCount)
+                        </b>
+                        break;
+                    default:
+                        @ViewBag.ProductCount
+                        break;
+                }
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,270 @@
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Car dealership.dll.config
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Car dealership.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Car dealership.pdb
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csc.exe
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csc.exe.config
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csc.rsp
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csi.exe
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csi.exe.config
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csi.rsp
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.AppContext.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Console.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Globalization.Calendars.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.Compression.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.FileSystem.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Net.Http.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Net.Sockets.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.ValueTuple.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.XPath.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\vbc.exe
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\vbc.exe.config
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\vbc.rsp
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Antlr3.Runtime.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.SqlServer.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.HashCode.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Options.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Primitives.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Newtonsoft.Json.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Buffers.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Collections.Immutable.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.ComponentModel.Annotations.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Memory.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Numerics.Vectors.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Threading.Tasks.Extensions.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Helpers.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Mvc.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Optimization.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Razor.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Deployment.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Razor.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\WebGrease.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.SqlServer.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.HashCode.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Options.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Primitives.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Buffers.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Collections.Immutable.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Memory.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Numerics.Vectors.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Threading.Tasks.Extensions.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Helpers.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Mvc.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Optimization.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Razor.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Deployment.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Razor.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Newtonsoft.Json.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Antlr3.Runtime.pdb
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Helpers.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Mvc.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Optimization.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Razor.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.WebPages.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.csprojAssemblyReference.cache
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.csproj.CoreCompileInputs.cache
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.csproj.CopyComplete
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.dll
+D:\Google Drive\Dysk\Навчання\3 курс (хну)\5 семестр\ПІ\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Car dealership.dll.config
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Car dealership.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Car dealership.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csc.exe
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csc.exe.config
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csc.rsp
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csi.exe
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csi.exe.config
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\csi.rsp
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.AppContext.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Console.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Globalization.Calendars.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.Compression.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.FileSystem.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Net.Http.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Net.Sockets.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.ValueTuple.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.XPath.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\vbc.exe
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\vbc.exe.config
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\vbc.rsp
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\VBCSCompiler.exe
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Antlr3.Runtime.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.SqlServer.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.HashCode.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Options.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Primitives.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Newtonsoft.Json.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Buffers.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Collections.Immutable.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.ComponentModel.Annotations.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Memory.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Numerics.Vectors.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Threading.Tasks.Extensions.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Helpers.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Mvc.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Optimization.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Razor.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Deployment.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Razor.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\WebGrease.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\EntityFramework.SqlServer.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Bcl.HashCode.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Options.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.Extensions.Primitives.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Buffers.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Collections.Immutable.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Memory.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Numerics.Vectors.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Threading.Tasks.Extensions.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Helpers.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Mvc.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Optimization.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.Razor.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Deployment.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\System.Web.WebPages.Razor.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Newtonsoft.Json.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Antlr3.Runtime.pdb
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Helpers.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Mvc.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Optimization.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.Razor.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.WebPages.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.csprojAssemblyReference.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.csproj.CoreCompileInputs.cache
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.csproj.CopyComplete
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.dll
+D:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 1\Program\Car dealership\Car dealership\obj\Debug\Car dealership.pdb
