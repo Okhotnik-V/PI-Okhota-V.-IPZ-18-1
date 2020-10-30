@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Редагувати замовлення";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model car.Models.Purchase
+<h2> Замовлення №@Model.PurchaseId</h2>
+@using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+{
+    <fieldset>
+        @Html.HiddenFor(m => m.PurchaseId)
+        <p>
+            <b>@Html.LabelFor(m => m.Person, "ПІП")</b>
+            <br />
+            @Html.EditorFor(m => m.Person)
+        </p>
+        <p>
+            <b>@Html.LabelFor(m => m.PurchaseDate, "Дата замовлення")</b>
+            <br />
+            @Html.EditorFor(m => m.PurchaseDate)
+        </p>
+        <p>
+            <b>@Html.LabelFor(m => m.CarId, "Код телефону")</b>
+            <br />
+            @Html.EditorFor(m => m.CarId)
+        </p>
+        <p>
+            <b>@Html.LabelFor(m => m.ShopId, "Номер салону")</b>
+            <br />
+            @Html.EditorFor(m => m.ShopId)
+        </p>
+        <p><input type="submit" value="Відправити" /></p>
+    </fieldset>
+}

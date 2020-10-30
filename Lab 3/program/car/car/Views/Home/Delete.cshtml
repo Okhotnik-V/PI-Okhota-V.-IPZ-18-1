@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Видалити замовлення";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model car.Models.Purchase
+<h2>Видалення замовлення</h2>
+<dl>
+    <dt><b>ПІП</b></dt>
+    <dd>
+        @Html.DisplayFor(model => model.Person)
+    </dd>
+    <dt><b>Дата замовлення</b></dt>
+    <dd>
+        @Html.DisplayFor(model => model.PurchaseDate)
+    </dd>
+    <dt><b>Код авто</b></dt>
+    <dd>
+        @Html.DisplayFor(model => model.CarId)
+    </dd>
+    <dt><b>Номер салону</b></dt>
+    <dd>
+        @Html.DisplayFor(model => model.ShopId)
+    </dd>
+</dl>
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Видалити" />
+}
+

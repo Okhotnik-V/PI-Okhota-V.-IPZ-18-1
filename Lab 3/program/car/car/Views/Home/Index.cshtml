@@ -1,0 +1,30 @@
+﻿@model IEnumerable<car.Models.Purchase>
+@{
+    ViewBag.Title = "Автомагазин";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div>
+    <h3>Замовлення</h3>
+    <table>
+        <tr class="header">
+            <td><p>Номер замовленняㅤ</p></td>
+            <td><p>ㅤПІПㅤ</p></td>
+            <td><p>ㅤДата замовленняㅤ</p></td>
+            <td><p>ㅤМодель автомобіляㅤ</p></td>
+            <td><p>ㅤНомер автосалонуㅤ</p></td>
+            <td></td>
+        </tr>
+        @foreach (car.Models.Purchase b in Model)
+        {
+            <tr>
+                <td><p>"@b.PurchaseId"ㅤ</p></td>
+                <td><p>ㅤ"@b.Person"ㅤ</p></td>
+                <td><p>ㅤ"@b.PurchaseDate"ㅤ</p></td>
+                <td><p>ㅤ"@b.CarId"ㅤ</p></td>
+                <td><p>ㅤ"@b.ShopId"ㅤ</p></td>
+                <td><p><a href="/Home/Edit/@b.PurchaseId">Редагуватиㅤ</a></p></td>
+                <td><p><a href="/Home/Delete/@b.PurchaseId">Видалитиㅤ</a></p></td>
+            </tr>
+        }
+    </table>
+</div>
