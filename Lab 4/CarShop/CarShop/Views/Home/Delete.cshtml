@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Видалити автомобіль";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model CarShop.Models.Car
+<h2>Видалення Автомобіля</h2>
+<dl>
+    <dt><b>Марка та модель</b></dt>
+    <dd>
+       @Html.DisplayFor(model => model.Name)
+    </dd>
+    <dt><b>Рік виробництва</b></dt>
+    <dd>
+        @Html.DisplayFor(model => model.Age)
+    </dd>
+    <dt><b>Ціна</b></dt>
+    <dd>
+        @Html.DisplayFor(model => model.Prise)
+    </dd>
+</dl>
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Видалити" />
+}
+

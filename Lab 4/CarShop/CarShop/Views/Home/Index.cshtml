@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CarShop.Models.Car> 
+@{
+    ViewBag.Title = "Каталог Автомобілів";
+}
+<h2>Каталог Автомобілів</h2>
+<table>
+    <tr>
+        <th>Марка і модельㅤ</th>
+        <th>ㅤДата виробництваㅤ</th>
+        <th>ㅤЦіна $ㅤ</th>
+        <th>ㅤСалонㅤ</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)"ㅤ
+            </td>
+            <td>
+                ㅤ"@Html.DisplayFor(modelItem => item.Age)"ㅤ
+            </td>
+            <td>
+                ㅤ"@Html.DisplayFor(modelItem => item.Prise)"ㅤ
+            </td>
+            <td>
+                ㅤ"@Html.DisplayFor(modelItem => item.Salon.Name)"ㅤ
+            </td>
+            <td>
+                @Html.ActionLink("Редагувати", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Видалити", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

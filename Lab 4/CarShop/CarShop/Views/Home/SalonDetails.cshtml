@@ -1,0 +1,29 @@
+﻿@using CarShop.Models
+@model Salon
+@{
+    ViewBag.Title = "Салон " + @Model.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div>
+    <h4>Салон @Model.Name</h4>
+    <hr />
+    <dl>
+        <dt>Назва</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>Місто</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Mist)
+        </dd>
+        <dt>Автомобілі</dt>
+        <dd>
+            <ul>
+                @foreach (Car car in Model.Cars)
+                {
+                    <li>@car.Name (@car.Prise)</li>
+                }
+            </ul>
+        </dd>
+    </dl>
+</div>
