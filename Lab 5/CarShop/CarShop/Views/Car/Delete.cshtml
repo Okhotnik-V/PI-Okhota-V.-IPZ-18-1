@@ -1,0 +1,48 @@
+﻿@model CarShop.Models.Car
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Видалити автомобіль</h2>
+
+<div>
+ 
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prise)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prise)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Видалити" class="btn btn-default" /> |
+            @Html.ActionLink("Повернутися на головну сторінку", "Index")
+        </div>
+    }
+</div>

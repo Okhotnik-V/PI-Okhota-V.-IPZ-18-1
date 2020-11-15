@@ -1,0 +1,32 @@
+﻿@model CarShop.Models.Car
+@{
+    ViewBag.Title = "Edit";
+}
+<h2>Редагування автомобіля </h2>
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Автомобіль</legend>
+        @Html.HiddenFor(model => model.Id)
+        <p>
+            Марка та модель <br />
+            @Html.EditorFor(model => model.Name)
+        </p>
+        <p>
+            Рік виробництва <br />
+            @Html.EditorFor(model => model.Age)
+        </p>
+        <p>
+            Ціна <br />
+            @Html.EditorFor(model => model.Prise)
+        </p>
+        <p>
+            Салон <br />
+            @Html.DropDownListFor(model => model.SalonId,
+           ViewBag.Salons as SelectList)
+        </p>
+        <p>
+            <input type="submit" value="Зберегти" />
+        </p>
+    </fieldset>
+}
