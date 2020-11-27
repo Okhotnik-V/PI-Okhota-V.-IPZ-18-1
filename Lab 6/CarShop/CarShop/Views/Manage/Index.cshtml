@@ -1,0 +1,30 @@
+﻿@model CarShop.Models.IndexViewModel
+@{
+    ViewBag.Title = "Керування";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>Змінити параметри облікового запису</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Пароль:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Зміна паролю", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Створити", "SetPassword")
+            }
+            ]
+        </dd>
+        
+        
+    </dl>
+</div>
