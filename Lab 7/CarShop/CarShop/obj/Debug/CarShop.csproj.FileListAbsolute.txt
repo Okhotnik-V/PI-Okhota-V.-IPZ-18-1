@@ -1,0 +1,397 @@
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\CarShop.dll.config
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\CarShop.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\CarShop.pdb
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\csc.exe
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\csc.exe.config
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\csc.rsp
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\csi.exe
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\csi.exe.config
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\csi.rsp
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.AppContext.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Console.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.IO.Compression.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.IO.FileSystem.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Net.Http.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Net.Sockets.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.ValueTuple.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Xml.XPath.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\vbc.exe
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\vbc.exe.config
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\vbc.rsp
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\VBCSCompiler.exe
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Antlr3.Runtime.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\EntityFramework.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\EntityFramework.SqlServer.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Google.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Newtonsoft.Json.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Owin.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Helpers.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Mvc.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Optimization.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Razor.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.WebPages.Deployment.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.WebPages.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.WebPages.Razor.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\WebGrease.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Helpers.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Mvc.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Optimization.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.Razor.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.WebPages.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.WebPages.Deployment.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\System.Web.WebPages.Razor.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Newtonsoft.Json.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Antlr3.Runtime.pdb
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\EntityFramework.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\EntityFramework.SqlServer.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Google.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.Helpers.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.Mvc.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.Optimization.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.Razor.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.WebPages.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\EntityFramework.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\obj\Debug\CarShop.csprojAssemblyReference.cache
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\obj\Debug\CarShop.csproj.CoreCompileInputs.cache
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\obj\Debug\CarShop.csproj.CopyComplete
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\obj\Debug\CarShop.dll
+E:\Google Dysk\Dysk\Навчання\3 курс (хну)\5 семестр\Програмування інтернет\Лаб 6\CarShop\CarShop\obj\Debug\CarShop.pdb
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\CarShop.dll.config
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\CarShop.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\CarShop.pdb
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\CarShop.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\csc.exe
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\csc.exe.config
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\csc.rsp
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\csi.exe
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\csi.exe.config
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\csi.rsp
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.AppContext.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Console.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Net.Http.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\vbc.exe
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\vbc.exe.config
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\vbc.rsp
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Antlr3.Runtime.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\EntityFramework.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\EntityFramework.SqlServer.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Newtonsoft.Json.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Owin.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Helpers.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Mvc.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Optimization.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Razor.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.WebPages.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\WebGrease.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\EntityFramework.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\EntityFramework.SqlServer.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Helpers.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Mvc.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Optimization.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.Razor.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.WebPages.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Newtonsoft.Json.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Antlr3.Runtime.pdb
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\EntityFramework.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.csprojAssemblyReference.cache
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.Resources.Resource.resources
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.Resources.Resource.ru.resources
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\ru\CarShop.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.csproj.CopyComplete
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.pdb
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\bin\en\CarShop.resources.dll
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\CarShop.Resources.Resource.en.resources
+C:\Users\vadim\Desktop\Нова папка\CarShop\CarShop\obj\Debug\en\CarShop.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\CarShop.dll.config
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\CarShop.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\CarShop.pdb
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\en\CarShop.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\CarShop.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\csc.exe
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\csc.exe.config
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\csc.rsp
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\csi.exe
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\csi.exe.config
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\csi.rsp
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.AppContext.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Console.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Net.Http.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\vbc.exe
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\vbc.exe.config
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\vbc.rsp
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Antlr3.Runtime.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\EntityFramework.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\EntityFramework.SqlServer.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Newtonsoft.Json.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Owin.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Helpers.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Mvc.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Optimization.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Razor.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.WebPages.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\WebGrease.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\EntityFramework.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\EntityFramework.SqlServer.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Helpers.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Mvc.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Optimization.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.Razor.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.WebPages.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Newtonsoft.Json.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Antlr3.Runtime.pdb
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\EntityFramework.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.csprojAssemblyReference.cache
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.Resources.Resource.resources
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.Resources.Resource.en.resources
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.Resources.Resource.ru.resources
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\en\CarShop.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\ru\CarShop.resources.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.csproj.CopyComplete
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.dll
+C:\Users\vadim\Desktop\CarShop\CarShop\obj\Debug\CarShop.pdb
